@@ -1,2 +1,3 @@
 # legendary-startup-builds
-This repository will contain all the projects that i will be making on my path of learning PyQt5
+Welcome Everyone to pay a visit on my path in the learing PyQt5. Hope you enjoy the projects.
+
